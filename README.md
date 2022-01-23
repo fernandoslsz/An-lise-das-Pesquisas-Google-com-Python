@@ -1,0 +1,1 @@
+# An-lise-das-Pesquisas-Google-com-Python
