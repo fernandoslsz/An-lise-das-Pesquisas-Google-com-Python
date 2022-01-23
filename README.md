@@ -15,11 +15,11 @@
 * [Funcionalidades e Demonstração da Aplicação](#Funcionalidades-e-Demonstração-da-Aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-##Descriação do projeto
+## Descriação do projeto
 Nesse projeto vou análisar as pesquisas feitas no google pelo google trend, para
 ver a tendência de uma determinada busca.
 
-##Instalações
+## Instalações
 Utilizei o comando pip para instalar pytrends.
 
 ## Status do projeto
@@ -31,6 +31,11 @@ fornece a API que é usada para analisar as buscas feitas diariamente no google.
 No projeto em questão eu analisei a tendência de busca pela palavra pandemia.
 Eu analisei os países que mais utilizaram essa palavra e verifiquei a tendência da palavra no Brasil nos últimos anos,
 da para ver o aumento da busca por pandemia em 2020.
+
+
+![busca-pandemia](https://user-images.githubusercontent.com/64037517/150661637-f21c1973-c689-4b31-a9da-6b54b98a2f9c.png)
+
+
 
 
 
