@@ -32,8 +32,10 @@ No projeto em questão eu analisei a tendência de busca pela palavra pandemia.
 Eu analisei os países que mais utilizaram essa palavra e verifiquei a tendência da palavra no Brasil nos últimos anos,
 da para ver o aumento da busca por pandemia em 2020.
 
-
 ![busca-pandemia](https://user-images.githubusercontent.com/64037517/150661637-f21c1973-c689-4b31-a9da-6b54b98a2f9c.png)
+
+## Tecnologias Utilizadas
+Python
 
 
 
